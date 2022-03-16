@@ -1,0 +1,15 @@
+
+if(condition expression)
+ {
+    s1;
+    ...
+    ...
+   sn;
+ }
+else
+ {
+   s1;  
+   ...
+   ...
+  sn;
+}

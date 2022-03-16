@@ -1,0 +1,19 @@
+// comment 
+/*
+comment Line 1
+comment Line n
+*/
+#include<headerfile>
+.
+.
+#include<header file>
+
+void main()
+{
+ declearation;
+  statement 1;
+
+
+statement n;
+}
+

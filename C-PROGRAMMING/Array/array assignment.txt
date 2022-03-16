@@ -1,0 +1,14 @@
+int x[100],count =0;
+
+
+1 append
+2 show all(travese)
+3 update
+4 reverse
+5 insert
+6 delete
+7 sort
+8 serach
+0 exit
+
+Enter youre choice?

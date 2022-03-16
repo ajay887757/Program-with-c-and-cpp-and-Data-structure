@@ -1,0 +1,10 @@
+
+
+for(expr1a , expr1b,.....    ;  condition expression  ; expr 2a , expr 2b.....)
+{
+s1;
+.......
+.......
+sn;
+
+}

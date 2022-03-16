@@ -1,0 +1,28 @@
+
+function of header file 'string.h'
+
+strlen(): this function return the no of character in string.
+example: no=strlen(str1);  
+
+strrev(): this function reverse the  string.
+   example: strrev(str1);  
+
+strupr(): this function convert a string into uper case  string.
+example: strupr(str1);  
+
+strlwr(): this function convert a string into lower case  string.
+example: strlwr(str1); 
+
+strcpy(): this function copy content of  'str2'  into 'str1'.
+example: strcpy(str1,str2);   
+
+strcat(): this function append  content of  'str2'  at end of 'str1'.
+example: strcat(str1,str2);   
+
+strcmp(): this function compare content of  'str1'  and 'str2'  alphabatic.
+and return 
++ve    if str1>str2
+-ve     if str1<str2
+0        if str1==str2
+example:
+    no= strcmp(str1,str2);   

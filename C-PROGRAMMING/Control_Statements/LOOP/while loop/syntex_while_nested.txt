@@ -1,0 +1,16 @@
+initialization 1;
+ while(condi 1)
+{
+   s1
+   .
+   initialization 2;
+   while(condi 2)
+    {
+      ss1;
+     incee/decree;
+     ssn;
+    }
+  .
+incree/decree
+sn;
+}

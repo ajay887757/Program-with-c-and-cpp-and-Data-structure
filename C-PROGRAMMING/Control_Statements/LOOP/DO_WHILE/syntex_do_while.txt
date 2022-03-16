@@ -1,0 +1,10 @@
+
+initialization ;
+do
+{
+   s1;
+   ......
+   incree/decree;
+   ..........
+   sn;
+} while(condition);

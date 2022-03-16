@@ -1,0 +1,13 @@
+
+datatype name   memory size(byte)     format character
+int		        2		         %d
+short int		1		        %hd
+long int		4		        %ld
+unsigned int	        2		         %u
+
+char		        1		         %c
+unsigned char	        1		         %c
+
+float		        4		         %f
+double		        8		        %lf
+long double 	        10		        %Lf

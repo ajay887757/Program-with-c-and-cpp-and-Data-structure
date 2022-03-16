@@ -1,0 +1,26 @@
+switch(choice expression)
+{
+   case label 1:
+	    s1;
+	    ..........
+	    sn;
+	    break;
+   case label 2:
+             s1;
+            ..........
+             sn;
+            break;
+   ..................
+   ..................
+   ..................
+   case label n:
+	    s1;
+	    ..........
+	    sn;
+	    break;
+   default:
+	    s1;
+	    .........
+	    sn;
+            break ;
+}
